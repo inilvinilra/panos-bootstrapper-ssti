@@ -112,7 +112,7 @@ check unconditionally.
   - https://github.com/PaloAltoNetworks/panos-bootstrapper/blob/8128161a2cc1f4236274ed9cb2281c873734d673/bootstrapper/lib/bootstrapper_utils.py#L594-L608
 - Public writeup (contains PoC, timeline, vendor correspondence summary):
   https://github.com/inilvinilra/panos-bootstrapper-ssti/blob/main/disclosure/writeup-public.md
-- GitHub Advisory Database submission (concurrent): <INSERT_GHSA_ISSUE_URL>
+- GitHub Advisory Database submission (concurrent): https://github.com/github/advisory-database/issues/10120
 
 ### Additional information
 
